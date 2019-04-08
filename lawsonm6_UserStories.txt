@@ -1,0 +1,13 @@
+User Stories:
+-As a customer, I can purchase an item from a store for myself.
+	-As a customer, I can pick a store to order from.
+	-As a customer, I can see the available items from the store I chose.
+	-As a customer, I want to be able to use a loyalty number.
+	-As a customer, I can specify the quantity of an item I want to purchase.
+-As a customer, I want to see the summary of what I ordered.
+	-As a customer, I can see the order number for this order.
+	-As a customer, the items and quantity of those items appears on the summary that I am looking at.
+(optional stories)
+-As an employee, I want to be able to view orders that have submitted.
+-As an employee, I want to be able to change the status of an order that is submitted.
+-As an employee, I want to see a report of the current system state.
